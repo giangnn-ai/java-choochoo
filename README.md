@@ -3,7 +3,7 @@ An android game in Java (coded in 2012)
 *Player try to arrange the rails to help the trains get to the station*
 Please watch a demo video in Youtube https://youtu.be/Ac6xOvmq16w
 
-![Demo](https://github.com/giangnn-ai/java-choochoo/blob/master/images/demo.gif)
+[![Demo](https://github.com/giangnn-ai/java-choochoo/blob/master/images/demo.gif)](https://youtu.be/Ac6xOvmq16w)
 ## Some example flow graphs of how the game was designed
 ### Choosing levels action
 ![Choose level](https://github.com/giangnn-ai/java-choochoo/blob/master/images/choose_level.png)
